@@ -1,6 +1,10 @@
 # Decentralized Lottery Application
 A Decentralised Lottery Application based on Blockchain Technology. This App is written on Solidity Programming Language and Deployed on Ethereum Testnet.
 
+## Language Used
+1. Solidity
+2. JavaScript
+
 ## Working entities 
 Entities involved in this project is Manager And Participants.
 ### Manager
